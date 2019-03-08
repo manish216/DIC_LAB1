@@ -1,0 +1,52 @@
+state,Var1,Freq,FIPS
+alabama,Alabama,1,01
+alaska,,,02
+arizona,Arizona,5,04
+arkansas,Arkansas,10,05
+california,California,27,06
+colorado,Colorado,4,08
+connecticut,Connecticut,3,09
+delaware,Delaware,2,10
+district of columbia,District of Columbia,21,11
+florida,Florida,10,12
+georgia,Georgia,23,13
+hawaii,,,15
+idaho,,,16
+illinois,Illinois,10,17
+indiana,Indiana,3,18
+iowa,Iowa,3,19
+kansas,Kansas,51,20
+kentucky,Kentucky,4,21
+louisiana,Louisiana,3,22
+maine,,,23
+maryland,Maryland,12,24
+massachusetts,Massachusetts,19,25
+michigan,Michigan,5,26
+minnesota,Minnesota,3,27
+mississippi,Mississippi,1,28
+missouri,Missouri,13,29
+montana,,,30
+nebraska,Nebraska,3,31
+nevada,Nevada,6,32
+new hampshire,New Hampshire,1,33
+new jersey,New Jersey,12,34
+new mexico,,,35
+new york,New York,24,36
+north carolina,North Carolina,24,37
+north dakota,,,38
+ohio,Ohio,19,39
+oklahoma,Oklahoma,2,40
+oregon,Oregon,23,41
+pennsylvania,Pennsylvania,24,42
+rhode island,Rhode Island,1,44
+south carolina,South Carolina,8,45
+south dakota,South Dakota,1,46
+tennessee,Tennessee,6,47
+texas,Texas,27,48
+utah,Utah,2,49
+vermont,Vermont,1,50
+virginia,Virginia,13,51
+washington,Washington,15,53
+west virginia,West Virginia,1,54
+wisconsin,Wisconsin,3,55
+wyoming,,,56
